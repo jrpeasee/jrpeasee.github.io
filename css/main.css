@@ -46,7 +46,7 @@ background-color: #fff !important
 
 header {
   text-align: center;
-  background-image: url(images/wwbg.jpg);
+  background-image: url('images/wwbg.jpg');
   background-size: cover;
   background-position: 50% 50%;
   height: 1080px;
